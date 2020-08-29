@@ -1,0 +1,11 @@
+.courses-container{
+    display:flex;
+    margin-top:10px;
+
+}
+.enroll-course-container{
+    width:60%;
+    margin-left:20px;
+    margin-right:5px;
+    border-right:1px solid lightgray;
+}

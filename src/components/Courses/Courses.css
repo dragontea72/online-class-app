@@ -1,0 +1,23 @@
+.header-part img{
+    width: 1340px;
+    height: 200px;
+    margin-left:10px;
+    margin-right:10px;
+}
+.header-part nav{
+    background-color:cyan;
+    line-height:40px;
+    font-size:20px;
+    margin-left: 10px;
+    margin-right:10px;
+
+}
+nav a{
+    text-decoration: none;
+    color:black;
+    margin-left: 20px;
+    padding:5px;
+}
+nav a:hover{
+    background-color:tomato;
+}
